@@ -18,6 +18,10 @@ All clear button (AC)
 Delete button (DEL)
 
 
+![preview](https://user-images.githubusercontent.com/74368392/224499073-73863781-9064-4730-aa64-8d3c13fa4eb6.jpeg)
+
+
+
 
 
 
